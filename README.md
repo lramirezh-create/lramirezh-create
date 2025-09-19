@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-HOLA
+
+- ⚡ I'm currently studying at the National University of Colombia. I am learning programming fundamentals for biological sciences, focusing on Python and improving my English skills.  
+- 🔭 I have skills in bioinformatics analysis, as I was enrolled in a bioinformatics course last semester. There, I learned about DNA sequence analysis using tools like MEGA and explored databases such as NCBI.  
+- 🌱 I am currently expanding my knowledge in data analysis for biological sciences.  
+- 📫 How to reach me: lramirezh@unal.edu.co  
 --
-s
-->
-si->
-->
+
